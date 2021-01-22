@@ -1,0 +1,83 @@
+12 May 2019
+Initial Commit
+
+Created GitHub repository
+
+
+12 May 2019
+First Commit
+
+Updated GitHub with Assignment 1 Solution
+
+
+12 May 2019
+Second Commit
+
+SilverServiceCar Class
+Class Created
+Constructor created
+Override Book Method Created
+Note to self: Error, code dup.
+Override getDetails Method Created (not complete)
+
+
+Car Class
+Change methods of private to protected for subclass use
+
+
+18 May 2019
+Third Commit
+
+Stage 1 and Stage 2 almost completed.
+Sorting to be done.
+
+
+19 May 2019
+Fourth Commit
+
+Stage 1 and Stage 2 completed.
+Created 2 exception classes.
+Saving everything before starting Stage 3 exceptions.
+
+
+23 May 2019
+Fifth Commit
+
+Completed Exception handling.
+Note to self: Make it neater
+
+
+24 May 2019
+Sixth Commit
+
+Completed Persistence.
+backupcarsavefile.txt and carsavefile.txt created
+
+More exceptions created for Menu class.
+
+Fixed an error in seed data. (One of the object was not appearing)
+
+Documentation and consistency to be done.
+Note to self: Make it neater
+
+
+30 May 2019
+Seventh Commit
+
+Commenting...
+Menu and MiRideApplication class to be continued.
+
+
+31 May 2019
+Eighth Commit
+
+Commenting done.
+Javadoc created.
+
+
+31 May 2019
+Ninth Commit
+
+Edited README.md & changed the name of this textfile (no more spaces in the textfile name) 
+
+
